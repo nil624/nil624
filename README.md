@@ -1,6 +1,6 @@
 - 👋 Hi, I’m THEND.
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Frontend and Backend Developmend
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
